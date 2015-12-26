@@ -1,0 +1,40 @@
+{
+  "name": "better-import-glob",
+  "description": "Better ES6 import with glob patterns (preloader for Webpack)",
+  "version": "1.0.0",
+  "author": {
+    "name": "lorem--ipsum",
+    "url": "https://github.com/lorem--ipsum"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lorem--ipsum/better-import-glob.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lorem--ipsum/better-import-glob/issues"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "glob": "^5.0.13"
+  },
+  "devDependencies": {
+    "babel-core": "^6.0.0",
+    "babel-loader": "6.1.0",
+    "babel-preset-es2015": "^6.3.13",
+    "webpack": "^1.0.0"
+  },
+  "keywords": [
+    "webpack",
+    "loader",
+    "glob",
+    "es6"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "lorem--ipsum",
+      "email": "dolor_sit_amet@protonmail.ch"
+    }
+  ],
+  "directories": {},
+}
